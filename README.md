@@ -25,7 +25,7 @@ Python 2.7-3.8<br>
 Pygame 2.0.0.dev6<br>
 
 To use this script use the following commands:
-```
+```bash
 pip install pygame
 
 git clone <URL>
